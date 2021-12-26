@@ -1,0 +1,7 @@
+.button {
+  background-color: burlywood;
+  cursor: pointer;
+  border-radius: 10px;
+  height: 40px;
+  margin-top: 10px;
+}
